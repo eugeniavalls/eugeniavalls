@@ -1,16 +1,16 @@
-![Imagen decorativa de tu perfil]()
+![Imagen decorativa de tu perfil](https://raw.githubusercontent.com/eugeniavalls/eugeniavalls/main/eugenia.JPG)
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="center">Hola 👋, Soy TU NOMBRE</h1>
-<h3 align="center">QUE TE APASIONA</h3>
+<h1 align="center">Hola 👋, Soy Eugenia Valls</h1>
+<h3 align="center">JUNIOR FRONT-END DEVELOPER, UX/UI DESIGNER AND GRAPHIC DESIGNER</h3>
 
-- 🔭 ACTUALMENTE TRABAJO EN [NOMBRE DEL PROYECTO](URL-DEL-PROYECTO)
+- 🔭 ACTUALMENTE TRABAJO EN [TELEFÓNICA](https://www.telefonica.com/es/)
 
-- 🌱 ESTOY ESTUDIANDO **INTRODUCE LENGUAJES, FRAMEWORKS**
+- 🌱 ESTOY ESTUDIANDO **FRONT-END EN LA ESCUELA TRAZOS**
 
 - 👨‍💻 TODOS MIS PROYECTOS ESTÁN [MIDOMINIO.COM](MIDOMINIO.COM)
 
-- 📫 PUEDES CONTACTARME EN **micorreo@midominio.com**
+- 📫 PUEDES CONTACTARME EN **e.vallsalfaro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,11 +22,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="url-de-devto" height="30" width="40" />
   </a>
 
-  <a href="https://twitter.com/url-de-twitter" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="url-de-twitter" height="30" width="40" />
-  </a>
-
-  <a href="https://linkedin.com/in/url-de-linkedin" target="blank">
+  <a href="https://linkedin.com/in/eugenia-valls-alfaro-540b1a20a" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="url-de-linkedin" height="30" width="40" />
   </a>
 </p>
