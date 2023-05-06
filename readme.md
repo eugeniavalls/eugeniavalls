@@ -1,4 +1,4 @@
-![Imagen decorativa de tu perfil](https://raw.githubusercontent.com/eugeniavalls/eugeniavalls/main/IMG_5543.JPG)
+![Imagen decorativa de tu perfil]()
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy TU NOMBRE</h1>
